@@ -1,0 +1,15 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.breadcrumbs.enabled": false,
+  "workbench.activityBar.location": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "window.commandCenter": false,
+  "idf.customExtraVars": {},
+  "idf.currentSetup": "E:\\esp\\v6.0.2\\esp-idf",
+  "clangd.path": "C:\\Espressif\\tools\\esp-clang\\esp-20.1.1_20250829\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=e:\\Users\\notkh\\source\\repos\\ESP32Projects\\hello_world\\build"
+  ]
+}
