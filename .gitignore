@@ -1,3 +1,14 @@
+#configurations
+.zed
+.cache
+.clangd
+.vscode
+sdkconfig*
+
+
+#build
+build
+
 #hello_world
 hello_world
 
